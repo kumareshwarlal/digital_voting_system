@@ -177,14 +177,10 @@ Votes are linked to elections, and completed elections can be deleted by the adm
 
 ## 👨‍💻 Author
 
-**Kumaresh B M**  
+**Kumareshwarlal B M**  
 Digital Voting System  
 PHP & MySQL Web Application
 
 ---
 
-## ⭐ GitHub Notes
-
-- Star ⭐ the repository if useful
-- Fork 🍴 for enhancements
-- Contributions are welcome
+e
